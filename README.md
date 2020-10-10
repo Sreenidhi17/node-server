@@ -28,7 +28,7 @@
 
 # references
 
-- https://github.com/denisecase/node-app
+- https://github.com/denisecase/
 - https://expressjs.com/en/starter/hello-world.html
 
 ## Author Sreenidhi Madala
