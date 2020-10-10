@@ -4,6 +4,10 @@
 
 # Information
 
+- To make any kind of web server that can listen and respond to the request we need two files one is package.json and other is index.js, npm init holds this file.
+
+    # Text 
+
 - creat a repo node-server and clone it locally.
 - In the same folder/location open powershell and run the following comands.
 - npm init for package.json, npm install for lock file then add an index.js file
