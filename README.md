@@ -1,38 +1,44 @@
-# node-server
+# Express
 
-- Node.js makes it easy to create a folder-based web server using JavaScript
+- As a full stack developer, I want to create a modern web app that handles custom routes. 
 
 # Information
 
-- To make any kind of web server that can listen and respond to the request we need two files one is package.json and other is index.js, npm init holds this file.
+- To make any kind of web server that can listen and respond to the request we need two files one is package.json and other is app.js, npm init holds this file.
 
-    # Text 
+    # Pug view engine 
 
-- creat a repo node-server and clone it locally.
-- In the same folder/location open powershell and run the following comands.
-- npm init for package.json, npm install for lock file then add an index.js file
-- run node index.js in the terminal and check it in the browser with the host and the port.
-- Now we would be able to see the message we included in the js file.
+- Pug was formerly known as "Jade." Pug is a high performance template engine, which was influenced by Haml and implemented with JavaScript for Node.js and browsers.
 
-    # For express
+    # Where is package.json?
 
-- In the same folder/location created server-app folder and in that open powershell and run the following comands.
-- npm init for package.json, npm install express for lock file then add an app.js file
-- run node app.js in the terminal and check it in the browser with the host and the port.
-- Now we would be able to see the message we included in the js file.
+- package.json is located on a root directory.
 
-    # using Html
+    # Where are the routes?
 
-- In the same folder/location created html folder and in that open powershell and run the following comands.
-- npm init for package.json, npm install for lock file then add an index.js file
-- index.html file is also added which will be called from index.js 
-- run node index.js in the terminal and check it in the browser with the host and the port.
-- Now we would be able to see the message we included in the html file.
+- routes are located on a root directory.
 
+    # Where are the views? 
+
+- views are located on a root directory,Under the routes.
+
+    # What is .gitignore?
+
+- The files/folders which need to be ignore are added in .gitignore, and is a text file.
+
+    # What's in the node_modules folder?
+
+- node_modules directory is For build tools. 
+- The package.json file in myapp root defines what libraries will be installed in node_modules when npm install is run.
+
+    # Can you find any HTML? CSS? JavaScript? Images?
+
+- Yes I saw a props html file.
+- Yes project has one style.css
+- empty folders of javaScripts and images were created.
 
 # references
 
-- https://github.com/denisecase/
-- https://expressjs.com/en/starter/hello-world.html
+- https://expressjs.com/en/starter/
 
 ## Author Sreenidhi Madala
